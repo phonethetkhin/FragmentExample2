@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FragmentExample2</string>
+    <string name="save_category">Save Category</string>
+    <string name="save_game">Save Games</string>
+    <string name="gamelist">Gamelist</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tiet_categoryname">Enter Category Name</string>
+    <string name="btn_save">Save</string>
+    <string name="tiet_photo">Enter Photo URL</string>
+    <string name="tiet_gamename">Enter Game Name</string>
+    <string name="tiet_detail">Enter Game\'s Detail</string>
+    <string name="btn_google">URL HERE!</string>
+    <string name="tiet_price">Enter Price</string>
+    <string name="btn_cancel">Cancel</string>
+</resources>
